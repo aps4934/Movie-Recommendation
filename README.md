@@ -46,7 +46,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Movie-Recommendation-System.git
+git clone https://github.com/aps4934/Movie-Recommendation-System.git
 cd Movie-Recommendation-System
 Install dependencies:
 
